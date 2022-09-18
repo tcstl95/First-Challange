@@ -4,7 +4,7 @@
 
 This is my submission for the First Challange assignment regarding accessibility
 
-## Tabke of Contents
+## Table of Contents
 
 [Usage](#usage)
 [Changes](#changes)
