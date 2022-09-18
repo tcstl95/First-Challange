@@ -25,3 +25,4 @@ Also edited the CSS code by combing related classes who shared the same CSS elem
 
 ## Link
 https://github.com/tcstl95/First-Challange.git
+https://tcstl95.github.io/First-Challange/
